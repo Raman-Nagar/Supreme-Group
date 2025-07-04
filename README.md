@@ -24,7 +24,7 @@ This is the official frontend implementation of the **Supreme Group** website, b
 ```bash
 # Clone the repo
 git clone https://github.com/Raman-Nagar/Supreme-Group.git
-cd supreme-group
+cd Supreme-Group
 
 # Install dependencies
 npm install
